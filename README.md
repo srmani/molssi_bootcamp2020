@@ -7,6 +7,8 @@ molecool
 
 A python package for analysing and visualizing molecules. Part of MolSSI bootcamp
 
+This repository is currently under development. To do a developmental install, `run pip install -e`
+
 ### Copyright
 
 Copyright (c) 2020, Sriramvignesh Mani
