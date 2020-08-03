@@ -7,10 +7,10 @@ Handles the primary functions
 
 
 def zen(with_attribution=True):
-	quote="sample zen quote: Beautiful is better than ugly"
+	quote = "sample zen quote: Beautiful is better than ugly"
 	if with_attribution:
 		quote += "\n\t- Adapted from Henry David Thoreau"
-    return quote
+	return quote
 	
 def canvas(with_attribution=True):
     """
