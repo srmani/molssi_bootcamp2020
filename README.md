@@ -9,6 +9,10 @@ A python package for analysing and visualizing molecules. Part of MolSSI bootcam
 
 This repository is currently under development. To do a developmental install, `run pip install -e`
 
+This package requires the following:
+numpy
+matplotlib
+
 ### Copyright
 
 Copyright (c) 2020, Sriramvignesh Mani
