@@ -13,6 +13,10 @@ This package requires the following:
 numpy
 matplotlib
 
+Features should be developed in branches. To checkout and create a new branch, use: `git checkout -b name`
+
+To return to an existing branch, use: `git branch name`
+
 ### Copyright
 
 Copyright (c) 2020, Sriramvignesh Mani
