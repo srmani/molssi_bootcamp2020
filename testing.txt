@@ -1,2 +1,11 @@
+**********************
+Start of file
+**********************
+
 i added this file for testing
 i added a new line here
+
+**********************
+End of file
+**********************
+
