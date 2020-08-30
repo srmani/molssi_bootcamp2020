@@ -26,3 +26,5 @@ Copyright (c) 2020, Sriramvignesh Mani
  
 Project based on the 
 [Computational Molecular Science Python Cookiecutter](https://github.com/molssi/cookiecutter-cms) version 1.3.
+
+https://img.shields.io/badge/DOI%3A-https%3A%2F%2Fdoi.org%2F10.1063%2F1.4936254-brightgreen
